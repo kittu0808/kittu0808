@@ -16,24 +16,22 @@ I enjoy turning raw data into meaningful insights through analysis and visualiza
 
 ---
 
-## 🛠 Skills
+## 🛠 Tools & Technologies
 
-**Programming**
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-* Python
-* SQL
+Data Analysis:
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
 
-**Data Analysis**
-
-* Pandas
-* NumPy
-* Exploratory Data Analysis (EDA)
-
-**Visualization**
-
-* Power BI
-* Excel
-* Matplotlib
+Visualization:
+- Power BI
+- Excel
+- Matplotlib
 
 ---
 
