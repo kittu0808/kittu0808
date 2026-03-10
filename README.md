@@ -52,7 +52,7 @@ https://github.com/kittu0808/Project
 
 📧 Email: **[shubhamanant04@gmail.com](mailto:shubhamanant04@gmail.com)**
 
-💼 LinkedIn: Add your LinkedIn link here
+💼 LinkedIn: https://www.linkedin.com/in/shubhamakulkarni-data-analyst/
 
 ---
 
